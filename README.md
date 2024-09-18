@@ -48,11 +48,7 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 - **[DoorMe (Web-Based Dormitory Search Platform for College Students)](https://github.com/jaypeepeep/DoorMe)**: A web application that assists students in finding dormitories based on their university location. It includes customizable filters tailored for students seeking dormitory options. Developed using HTML, CSS, JavaScript, SQLite, and the Mapbox API.
 
 - **[Filo-Travel (Website for Filipino Tourist Spots)](https://github.com/jaypeepeep/Filo-Travel)**: A simple website showcasing tourist spots in the Philippines. Developed using HTML, CSS, and JavaScript.
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+- 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
