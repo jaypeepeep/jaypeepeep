@@ -21,14 +21,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 💼 Projects
 
 - **[Ibaybay Mo Isasalin Ko (Online Baybayin Handwriting Recognizer and Latin-Baybayin Bidirectional Transliterator)](https://github.com/jaypeepeep/Ibaybay-Mo-Isasalin-Ko)**: This project provides a tool for converting between Baybayin and Latin script. It includes a bidirectional transliterator, which incorporates pushdown automata, and a handwriting recognizer trained on a custom dataset. The tool features virtual keyboards for both Baybayin and Latin scripts and is implemented in Python.
@@ -41,6 +33,13 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 
 - **[Filo-Travel (Website for Filipino Tourist Spots)](https://github.com/jaypeepeep/Filo-Travel)**: A simple website showcasing tourist spots in the Philippines. Developed using HTML, CSS, and JavaScript.
 
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
