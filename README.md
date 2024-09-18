@@ -18,12 +18,21 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 
 ## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white) PHP
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) Jupyter
+- ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white) PHPRunner
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) SQLite
+- ![WAMP](https://img.shields.io/badge/-WAMP-4F5D95?style=flat&logo=wamp&logoColor=white) WAMP
+
+
+
+
 
 
 
