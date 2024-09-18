@@ -8,18 +8,31 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 - 🎓 Fourth-year Computer Science student at Polytechnic University of the Philippines - Sta. Mesa.
 - 🌟 Exploring opportunities in software development and interested in expanding my skills in back-end development. data science, and machine learning.
 
-## 🛠️ Languages & Tools
+## 🌟 Skills
 
-- ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-- ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- **Languages**: 
+  - ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- **Frameworks**: 
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- **Tools**:
+  - ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  - ![WAMP](https://img.shields.io/badge/-WAMP-6C8EBF?style=flat&logo=wamp&logoColor=white)
+  - ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+  - ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C5B9D?style=flat&logo=phpmyadmin&logoColor=white)
+  - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  - ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+  - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 
 ## 💼 Projects
 
