@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 
 ## 🚀 Most Used Languages
 
-[![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs?username=jaypeepeep&show_icons=true&locale=en&layout=compact)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs?username=jaypeepeep&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=jaypeepeep&show_icons=true&locale=en&layout=compact))
 
 
 
