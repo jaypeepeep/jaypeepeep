@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer based in Philippines. Here you'll find my projects, contributions, and a bit more about my work and interests.
 
+## 📝 About Me
+
+- 👨‍💻 Currently a part-time Software Developer at 8Box Solutions Inc., where I focus on creating admin interfaces.
+- 🎓 Fourth-year Computer Science student at Polytechnic University of the Philippines - Sta. Mesa.
+- 🌟 Exploring opportunities in software development and interested in expanding my skills in back-end development. data science, and machine learning.
+
 ## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
