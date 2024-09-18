@@ -8,14 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 - 🎓 Fourth-year Computer Science student at Polytechnic University of the Philippines - Sta. Mesa.
 - 🌟 Exploring opportunities in software development and interested in expanding my skills in back-end development. data science, and machine learning.
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🛠️ Languages & Tools
 
 - ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white) PHP
@@ -29,6 +21,13 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) SQLite
 
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypeepeep&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
