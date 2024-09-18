@@ -29,6 +29,13 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 💼 Projects
+
+- **[Ibaybay Mo Isasalin Ko (Online Baybayin Handwriting Recognizer and Latin-Baybayin Bidirectional Transliterator)](https://github.com/jaypeepeep/Ibaybay-Mo-Isasalin-Ko)**: This project provides a tool for converting between Baybayin and Latin script. It includes a bidirectional transliterator, which incorporates pushdown automata, and a handwriting recognizer trained on a custom dataset. The tool features virtual keyboards for both Baybayin and Latin scripts and is implemented in Python.
+
+- **[D’Tilapia Compiler (Programming Language for Discrete Mathematics)](https://github.com/jaypeepeep/D-Tilapia-Compiler)**: A compiler designed for our proposed programming language inspired by discrete mathematics. Built using Python, the project features a lexical and syntax analyzer for processing and understanding code, along with a user-friendly interface.
+
+- **[Komyu-Sagip (Crime Prevention & Emergency Response Mobile Application)](https://github.com/jaypeepeep/Komyu-Sagip-Mobile-Application)**: A mobile application developed in Android Studio using Kotlin, XML, and Firebase. This project enhances crime prevention and emergency response by integrating mapping and social media features for effective information dissemination and rapid response during emergencies.
 
 
 
