@@ -59,7 +59,7 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [John Patrick Lagatuz](www.linkedin.com/in/john-patrick-lagatuz-885422144)
+- **LinkedIn**: [John Patrick Lagatuz](https://www.linkedin.com/in/john-patrick-lagatuz-885422144/)
 - **Email**: [patrick.zutagal@gmail.com](patrick.zutagal@gmail.com)
 
 
