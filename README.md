@@ -1,6 +1,6 @@
 # 👋 Hello, I'm JP
 
-Welcome to my GitHub profile! I'm a passionate software developer based in Philippines. Here you'll find my projects, contributions, and a bit more about my work and interests.
+Welcome to my GitHub profile! I'm a passionate Software Developer based in Philippines. Here you'll find my projects, contributions, and a bit more about my work and interests.
 
 ## 📝 About Me
 
