@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm JP
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Interest] based in [Your Location]. Here you'll find my projects, contributions, and a bit more about my work and interests.
+Welcome to my GitHub profile! I'm a passionate software developer based in Philippines. Here you'll find my projects, contributions, and a bit more about my work and interests.
 
 ## 📊 GitHub Stats
 
@@ -18,32 +18,3 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Interest] based 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaypeepeep&theme=react-dark)
 
-## 💼 Projects
-
-- **[Project Name](Link to Project)**: Short description of the project.
-- **[Another Project](Link to Another Project)**: Short description of the project.
-
-## 🌟 Skills
-
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, TensorFlow, Django
-- **Tools**: Git, Docker, VSCode
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
-- **Twitter**: [@YourTwitterHandle](Your Twitter URL)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-
-## 📚 Learning & Exploring
-
-Currently learning [Technology/Field] and exploring [Area of Interest]. Always open to new opportunities and collaborations!
-
-## 🔗 Links
-
-- [My Website](Your Website URL)
-- [My Blog](Your Blog URL)
-
----
-
-Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
