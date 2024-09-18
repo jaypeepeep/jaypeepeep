@@ -15,9 +15,10 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeepeep&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
-![JP's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=jaypeepeep&theme=github)
+![JP's Contribution Graph](https://github.com/jaypeepeep/jaypeepeep/blob/main/contribs.svg)
+
 
 
 
