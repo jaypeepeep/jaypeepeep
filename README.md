@@ -17,6 +17,9 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 
 ## 📈 Contribution Graph
 
+[![JP's Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=jaypeepeep&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
