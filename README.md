@@ -1,6 +1,6 @@
 # 👋 Hello, I'm JP
 
-I’m a Software Developer from the Philippines. I’m dedicated to growing my skills in software development and enjoy tackling problems with creative solutions. Check out my projects and contributions to see what I’ve been working on!
+I'm a Software Developer from the Philippines. Dive in to check out my projects, contributions, and a little bit about what I’m into.
 
 ## 📝 About Me
 
