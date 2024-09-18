@@ -12,9 +12,11 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 
 ## 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypeepeep&layout=compact&theme=radical)
+![Top Languages](https://github-stats-alpha.vercel.app/api?username=jaypeepeep)
+
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaypeepeep&theme=react-dark)
+
 
