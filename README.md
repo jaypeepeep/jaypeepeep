@@ -31,40 +31,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 
 
 
-## 💼 Projects
-
-<!-- List of projects -->
-- **[Project Name](Link to Project)**: Short description of the project.
-- **[Another Project](Link to Another Project)**: Short description of the project.
-
-## 🌟 Skills
-
-<!-- Categories of skills -->
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, TensorFlow, Django
-- **Tools**: Git, Docker, VSCode
-
-## 📫 How to Reach Me
-
-<!-- Contact information -->
-- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
-- **Twitter**: [@YourTwitterHandle](Your Twitter URL)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-
-## 📚 Learning & Exploring
-
-<!-- Current learning and exploration areas -->
-Currently learning [Technology/Field] and exploring [Area of Interest]. Always open to new opportunities and collaborations!
-
-## 🔗 Links
-
-<!-- Additional links -->
-- [My Website](Your Website URL)
-- [My Blog](Your Blog URL)
-
-
-
-
 
 
 
