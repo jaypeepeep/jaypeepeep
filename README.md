@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer based in Phili
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
 
 
 
