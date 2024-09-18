@@ -28,8 +28,6 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Phili
 - ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white) PHPRunner
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) SQLite
-- ![WAMP](https://img.shields.io/badge/-WAMP-4F5D95?style=flat&logo=wamp&logoColor=white) WAMP
-
 
 
 
