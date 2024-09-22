@@ -57,3 +57,6 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 - **LinkedIn**: [John Patrick Lagatuz](https://www.linkedin.com/in/john-patrick-lagatuz-885422144/)
 - **Email**: [patrick.zutagal@gmail.com](patrick.zutagal@gmail.com)
+
+- ![WakaTime Stats](https://wakatime.com/badge/user/your_user_id.svg)
+
