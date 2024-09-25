@@ -8,34 +8,42 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 - 🎓 Fourth-year Computer Science student at Polytechnic University of the Philippines - Sta. Mesa.
 - 🌟 Exploring opportunities in software development and interested in expanding my skills in back-end development. data science, and machine learning.
 
-## 🌟 Skills
+# 🌟 Skills
 
-- **Languages**: 
-  - ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+## **Languages**:
+- ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=flat&logo=php&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
-- **Frameworks**: 
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
+## **Frameworks**:
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
 
-- **Tools**:
-  - ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  - ![WAMP](https://img.shields.io/badge/-WAMP-6C8EBF?style=flat&logo=wamp&logoColor=white)
-  - ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-  - ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C5B9D?style=flat&logo=phpmyadmin&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  - ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-  - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-  - ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+## **Tools**:
+- ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+- ![WAMP](https://img.shields.io/badge/-WAMP-6C8EBF?style=flat&logo=wamp&logoColor=white)
+- ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+- ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C5B9D?style=flat&logo=phpmyadmin&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+- ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+
+## **Office Tools**:
+- ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 ## 💼 Projects
 
