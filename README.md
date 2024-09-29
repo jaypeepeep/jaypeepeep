@@ -23,6 +23,12 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0079A1?style=flat&logo=matplotlib&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![PyQt5](https://img.shields.io/badge/-PyQt5-4B0082?style=flat&logo=python&logoColor=white)
 
 ## **Tools**:
 - ![PHPRunner](https://img.shields.io/badge/-PHPRunner-2C3E50?style=flat&logo=php&logoColor=white)
