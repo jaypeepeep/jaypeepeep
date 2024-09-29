@@ -46,11 +46,6 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 - ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 
-## **Office Tools**:
-- ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-
 ## 💼 Projects
 
 - **[Ibaybay Mo Isasalin Ko (Online Baybayin Handwriting Recognizer and Latin-Baybayin Bidirectional Transliterator)](https://github.com/jaypeepeep/Ibaybay-Mo-Isasalin-Ko)**: This project provides a tool for converting between Baybayin and Latin script. It includes a bidirectional transliterator, which incorporates pushdown automata, and a handwriting recognizer trained on a custom dataset. The tool features virtual keyboards for both Baybayin and Latin scripts and is implemented in Python.
