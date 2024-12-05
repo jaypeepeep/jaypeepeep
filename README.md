@@ -54,7 +54,7 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 - **[Komyu-Sagip (Crime Prevention & Emergency Response Mobile Application)](https://github.com/jaypeepeep/Komyu-Sagip-Mobile-Application)**: A mobile application for crime prevention and emergency response, developed in Android Studio using Kotlin, XML, and Firebase. This project integrates social media features to facilitate effective information dissemination and rapid response during emergencies.
 
-- **[DoorMe (Web-Based Dormitory Search Platform for College Students)](https://github.com/jaypeepeep/DoorMe)**: A web application that helps students find dormitories based on their university location. It includes registration and login functions, an interactive map, and customizable filters tailored to students seeking dormitory options. The application is developed using HTML, CSS, JavaScript, SQLite, and the Mapbox API.
+- **[DoorMe (Web-Based Dormitory Search Platform for College Students)](https://github.com/jaypeepeep/DoorMe)**: A web application that assists students in finding dormitories based on their university location. It includes register and login function, interactive map, customizable filters tailored for students seeking dormitory options. Developed using HTML, CSS, JavaScript, React.js, Node.js, SQLite, and the Mapbox API.
 
 - **[Filo-Travel (Website for Filipino Tourist Spots)](https://github.com/jaypeepeep/Filo-Travel)**: A simple website showcasing tourist spots in the Philippines. Developed using HTML, CSS, and JavaScript.
 
