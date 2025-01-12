@@ -62,8 +62,10 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me  
 
-- **LinkedIn**: [John Patrick Lagatuz](https://www.linkedin.com/in/john-patrick-lagatuz-885422144/)
+- **Portfolio**: [My Portfolio](https://jaypeepeep.github.io/MyPortfolio/)  
+- **LinkedIn**: [John Patrick Lagatuz](https://www.linkedin.com/in/john-patrick-lagatuz-885422144/)  
 - **Email**: [patrick.zutagal@gmail.com](patrick.zutagal@gmail.com)
+
 
