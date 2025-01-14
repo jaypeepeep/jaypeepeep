@@ -62,10 +62,6 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 Contribution Graph
-
-![GitHub Contribution Graph](https://github.com/jaypeepeep/jaypeepeep/blob/main/contributions.svg)
-
 
 ## 📫 How to Reach Me  
 
