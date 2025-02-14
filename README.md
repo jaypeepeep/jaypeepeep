@@ -49,18 +49,17 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 ## 💼 Projects
 
-- **[Ibaybay Mo Isasalin Ko (Online Baybayin Handwriting Recognizer and Latin-Baybayin Bidirectional Transliterator)](https://github.com/jaypeepeep/Ibaybay-Mo-Isasalin-Ko)**: This project provides a tool for converting between Baybayin and Latin script. It includes a bidirectional transliterator, which incorporates pushdown automata, and a handwriting recognizer trained on a custom dataset. The tool features virtual keyboards for both Baybayin and Latin scripts and is implemented in Python.
+- **[SC-Beta-VAE-GAN](https://github.com/jaypeepeep/SC-Beta-VAE-GAN)**: A thesis project featuring a Shift Correction VAE-GAN model for handwriting data imputation and augmentation. It generates synthetic multivariate time series data to address missing values and small dataset issues. Includes a user-friendly web tool for data input and processing. Built with Python, TensorFlow, and Flask.
 
 - **[D’Tilapia Compiler (Programming Language for Discrete Mathematics)](https://github.com/jaypeepeep/D-Tilapia-Compiler)**: A compiler designed for our proposed programming language, D'Tilapia, inspired by discrete mathematics. Built using Python, the project features a lexical and syntax analyzer for processing and understanding code, along with a user-friendly interface.
+
+- **[Ibaybay Mo Isasalin Ko (Online Baybayin Handwriting Recognizer and Latin-Baybayin Bidirectional Transliterator)](https://github.com/jaypeepeep/Ibaybay-Mo-Isasalin-Ko)**: This project provides a tool for converting between Baybayin and Latin script. It includes a bidirectional transliterator, which incorporates pushdown automata, and a handwriting recognizer trained on a custom dataset. The tool features virtual keyboards for both Baybayin and Latin scripts and is implemented in Python.
 
 - **[Komyu-Sagip (Crime Prevention & Emergency Response Mobile Application)](https://github.com/jaypeepeep/Komyu-Sagip-Mobile-Application)**: A mobile application for crime prevention and emergency response, developed in Android Studio using Kotlin, XML, and Firebase. This project integrates social media features to facilitate effective information dissemination and rapid response during emergencies.
 
 - **[DoorMe (Web-Based Dormitory Search Platform for College Students)](https://github.com/jaypeepeep/DoorMe)**: A web application that assists students in finding dormitories based on their university location. It includes register and login function, interactive map, customizable filters tailored for students seeking dormitory options. Developed using HTML, CSS, JavaScript, React.js, Node.js, SQLite, and the Mapbox API.
 
 - **[Filo-Travel (Website for Filipino Tourist Spots)](https://github.com/jaypeepeep/Filo-Travel)**: A simple website showcasing tourist spots in the Philippines. Developed using HTML, CSS, and JavaScript.
-
-- **[SC-Beta-VAE-GAN](https://github.com/jaypeepeep/SC-Beta-VAE-GAN)**: A thesis project featuring a Shift Correction VAE-GAN model for handwriting data imputation and augmentation. It generates synthetic multivariate time series data to address missing values and small dataset issues. Includes a user-friendly web tool for data input and processing. Built with Python, TensorFlow, and Flask.
-
 
 ## 🏆 GitHub Trophies
 
