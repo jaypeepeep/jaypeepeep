@@ -59,6 +59,9 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 - **[Filo-Travel (Website for Filipino Tourist Spots)](https://github.com/jaypeepeep/Filo-Travel)**: A simple website showcasing tourist spots in the Philippines. Developed using HTML, CSS, and JavaScript.
 
+- **[SC-Beta-VAE-GAN](https://github.com/jaypeepeep/SC-Beta-VAE-GAN)**: A thesis project featuring a Shift Correction VAE-GAN model for handwriting data imputation and augmentation. It generates synthetic multivariate time series data to address missing values and small dataset issues. Includes a user-friendly web tool for data input and processing. Built with Python, TensorFlow, and Flask.
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaypeepeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
