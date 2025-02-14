@@ -4,7 +4,8 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 ## 📝 About Me
 
-- 👨‍💻 Currently a part-time Software Developer at 8Box Solutions Inc., where I focus on creating admin interfaces.
+- 🚀 Currently working as a Full Stack Web Developer with a strong focus on back-end development.
+- 👨‍💻 Previously worked as a Software Developer, focusing on creating admin interfaces and payroll systems.
 - 🎓 Fourth-year Computer Science student at Polytechnic University of the Philippines - Sta. Mesa.
 - 🌟 Exploring opportunities in software development and interested in expanding my skills in back-end development. data science, and machine learning.
 
