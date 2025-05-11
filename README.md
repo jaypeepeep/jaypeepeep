@@ -68,7 +68,7 @@ I'm a Software Developer from the Philippines. Check out my projects and contrib
 
 ## 📫 How to Reach Me  
 
-- **Portfolio**: [JP Portfolio](https://jaypeepeep.github.io/MyPortfolio/)  
+- **Portfolio**: [JP Portfolio](https://jaypeepbits.vercel.app/)  
 - **LinkedIn**: [John Patrick Lagatuz](https://www.linkedin.com/in/john-patrick-lagatuz-885422144/)  
 - **Email**: [patrick.zutagal@gmail.com](patrick.zutagal@gmail.com)
 
